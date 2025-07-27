@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains multiple lines.
+Hello
+This is a sample text file for my python assignment 4
+Thank you
