@@ -121,7 +121,36 @@ This program:
 - Reverses the extracted elements using list slicing.
 - Displays both the extracted and reversed lists.
 
+# Assignment 6 - Calculator Using Tkinter
 
+This repository contains the solution for **Assignment 6** from **Module 10 & 11: GUI Programming in Python with Tkinter**.  
+The program demonstrates how to build a **basic calculator application** with a graphical interface, allowing users to perform arithmetic operations interactively.
+
+## Contents
+
+### Task: Create a Calculator Application
+
+This program:
+- Uses **Tkinter** to create a graphical user interface.
+- Includes:
+  - A display (entry box) to show numbers and results.
+  - Number buttons (0–9).
+  - Operator buttons (+, −, ×, ÷).
+  - **Clear** button to reset the input.
+  - **Backspace** button to delete the last digit.
+  - **Equals (=)** button to evaluate the entered expression.
+- Implements functions for:
+  - Adding digits to the display.
+  - Performing arithmetic operations.
+  - Handling errors (e.g., invalid expressions).
+  - Deleting characters or clearing the entire entry.
+- Displays results in the same input box for convenience.
+
+**Features:**
+- Interactive number and operator buttons.
+- Real-time input display.
+- Error handling for invalid calculations.
+- Simple, clean Tkinter-based GUI.
 
 ---
 
